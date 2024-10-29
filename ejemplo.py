@@ -3,7 +3,7 @@ st.title('intento de codigo uno')
 st.header('intento de primera página')
 
 st.sidebar.text('Ingrese un nombre de ususario')
-st.sidebar.text_input()
+st.sidebar.text_input('')
 
 st.sidebar.text('cree una contraseña para su usuario')
 st.sidebar.text_input()
