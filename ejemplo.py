@@ -6,4 +6,4 @@ st.selectbox('Seleccione una opcion', ('Nuevo usuario', 'Tengo ya creada una cue
 st.sidebar.write('Espero se sienta emocionado de comersar sesión en esta página')
 st.sidebar.image('gatito.png')
 st.sidebar.write('Deberia de iniciar sesión y averiguar que pasa')
-st.sidebar.image()
+st.sidebar.image('gatobotas.jpg')
