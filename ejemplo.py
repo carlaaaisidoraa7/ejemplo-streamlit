@@ -1,6 +1,6 @@
 import streamlit as st 
 st.title('intento de codigo uno')
-st.headder('intento de primera página')
+st.header('intento de primera página')
 
 st.textsidebar('Ingrese un nombre de ususario')
 st.text_inputsidebar()
