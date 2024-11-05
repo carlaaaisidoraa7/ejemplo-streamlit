@@ -15,10 +15,10 @@ st.balloons()
 if ss== 'Me gustan los gatitos':
   st.image('gatito.botitas.jpg')
   st.video('gatitobeso.mp4')
-elif:
+else:
   st.image('perrito.jpeg')
   st.image('perrito2.jpg')
-else:
+elif:
   st.audio('cancionabejita.mp3')
 st.write(ss)
 
