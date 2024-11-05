@@ -11,6 +11,6 @@ st.sidebar.image('gatito.png')
 st.sidebar.write('Deberia de iniciar sesión y averiguar que pasa')
 st.sidebar.image('gatobotas.jpg')
 
-st.balloons()
+st.balloons(45)
 
 st.write(ss)
